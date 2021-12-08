@@ -12,3 +12,4 @@ No known bugs available.
 * Gradle
 ##Support and contact details
 If you run into any issues or have questions, ideas or concerns or you want to make a contribution to the project, email me at jmusau62@gmail.com
+### License
