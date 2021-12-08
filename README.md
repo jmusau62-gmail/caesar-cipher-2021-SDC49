@@ -10,3 +10,4 @@ No known bugs available.
 ## Technologies Used
 * Java
 * Gradle
+##Support and contact details
