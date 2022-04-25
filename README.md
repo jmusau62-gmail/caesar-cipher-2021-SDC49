@@ -1,4 +1,4 @@
-# caesar-cipher-2022
+# caesar-cipher
 #### This is a command line application that takes in a user's text and a shift number then converts the plain text into an encrypted text,April 2022
 #### By **Joshua Musau**
 ## Description
