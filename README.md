@@ -1,5 +1,5 @@
-# caesar-cipher-2021-SDC49
-#### This is a command line application that takes in a user's text and a shift number then converts the plain text into an encrypted text, December 2021
+# caesar-cipher-2022
+#### This is a command line application that takes in a user's text and a shift number then converts the plain text into an encrypted text,April 2022
 #### By **Joshua Musau**
 ## Description
  The Caesar cipher is a type of substitution in which each letter is shifted a certain number of places also known as a key, down the alphabet.  For example, with a shift of 1, A would be replaced by B, B by C etc
@@ -14,5 +14,5 @@ No known bugs available.
 If you run into any issues or have questions, ideas or concerns or you want to make a contribution to the project, email me at jmusau62@gmail.com
 ### License
 * MIT license 
-* Copyright (c) 2021 
-* **Joshua Musau**# caesar-cipher-2021
+* Copyright (c) 2022 
+* **Joshua Musau**# caesar-cipher-2022
